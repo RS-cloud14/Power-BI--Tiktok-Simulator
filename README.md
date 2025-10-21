@@ -1,12 +1,10 @@
-# Power-BI--Tiktok-Simulator
-🌱 Interactive Power BI dashboard calculating TikTok's carbon footprint. Raise awareness about digital sustainability with real-time emissions calculator and actionable green tips. Green Digital Certificate Capstone Project.
 # 🌱 TikTok Carbon Footprint Calculator
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-An interactive Power BI dashboard that calculates and visualizes the carbon footprint of TikTok usage, raising awareness about digital sustainability among university students.
+An interactive Power BI dashboard that calculates and visualizes the carbon footprint of TikTok usage, raising awareness about digital sustainability among users worldwide.
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -23,10 +21,10 @@ An interactive Power BI dashboard that calculates and visualizes the carbon foot
 
 ## 🌍 Overview
 
-This project is part of the **Green Digital Certificate Capstone** by Universiti Malaysia Pahang Al-Sultan Abdullah. It addresses the invisible environmental impact of social media usage, specifically TikTok, by creating an interactive simulator that helps students understand and reduce their digital carbon footprint.
+This project is part of the **Green Digital Certificate Capstone** by Universiti Malaysia Pahang Al-Sultan Abdullah. It addresses the invisible environmental impact of social media usage, specifically TikTok, by creating an interactive simulator that helps people understand and reduce their digital carbon footprint.
 
 ### The Problem
-Students spend an average of **95 minutes daily** on TikTok, generating **250 grams of CO₂** per day—yet most are unaware of this hidden environmental impact.
+People spend an average of **95 minutes daily** on TikTok, generating **250 grams of CO₂** per day—yet most are unaware of this hidden environmental impact.
 
 ### The Solution
 A two-page Power BI dashboard that:
@@ -83,8 +81,8 @@ A two-page Power BI dashboard that:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/tiktok-carbon-calculator.git
-cd tiktok-carbon-calculator
+git clone https://github.com/RS-cloud14/Power-BI--Tiktok-Simulator.git
+cd Power-BI--Tiktok-Simulator
 ```
 
 2. **Download the Power BI file**
@@ -100,7 +98,7 @@ cd tiktok-carbon-calculator
 
 ## 💡 Usage
 
-### For Students
+### For General Users
 1. Open the dashboard
 2. Go to the **Simulator Page**
 3. Input your daily TikTok screen time
@@ -112,7 +110,7 @@ cd tiktok-carbon-calculator
 ### For Educators
 - Use the Awareness Page to introduce digital sustainability concepts
 - Facilitate discussions about invisible environmental impacts
-- Encourage students to calculate and share their results
+- Encourage people to calculate and share their results
 - Integrate into environmental science or digital literacy courses
 
 ### For Researchers
@@ -145,7 +143,7 @@ cd tiktok-carbon-calculator
 ## 📁 Project Structure
 
 ```
-tiktok-carbon-calculator/
+Power-BI--Tiktok-Simulator/
 │
 ├── TikTok_Carbon_Calculator.pbix    # Main Power BI dashboard
 ├── data/
@@ -174,8 +172,8 @@ tiktok-carbon-calculator/
 - **Switching from HD to SD** = Save up to 60% emissions
 - **Reducing 30 min/day** = Save 28.7 kg CO₂/year = 1.4 trees worth of offset
 
-### Student Awareness Goals
-✅ Target: 65% of students report increased awareness  
+### Awareness Goals
+✅ Target: 65% of users report increased awareness  
 ✅ Encourage behavior change through interactive visualization  
 ✅ Provide actionable, practical tips for greener digital habits
 
@@ -216,13 +214,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Contact
 
 **Tham Ren Sheng**  
-Student, Universiti Malaysia Pahang Al-Sultan Abdullah
+Universiti Malaysia Pahang Al-Sultan Abdullah
 
-- GitHub: https://github.com/RS-cloud14
-- LinkedIn: www.linkedin.com/in/ren-sheng-tham-245649258  
+- GitHub: [@RS-cloud14](https://github.com/RS-cloud14)
+- LinkedIn: [Ren Sheng Tham](https://www.linkedin.com/in/ren-sheng-tham-245649258)
 - Email: renshengtham@gmail.com
 
-**Project Link**: https://github.com/RS-cloud14/Power-BI--Tiktok-Simulator/
+**Project Link**: [https://github.com/RS-cloud14/Power-BI--Tiktok-Simulator](https://github.com/RS-cloud14/Power-BI--Tiktok-Simulator)
 
 ## 🙏 Acknowledgments
 
@@ -230,9 +228,11 @@ Student, Universiti Malaysia Pahang Al-Sultan Abdullah
 - **CloudZero** - Emission data research
 - **BLACKLINKO** - Social media usage statistics
 
+---
+
 ## 📱 Share Your Results
 
-Completed the capstone? Share your dashboard on social media!
+Completed the dashboard? Share your results on social media!
 
 **Tag**: `#GreenDigitalCertificate` `#DigitalSustainability` `#TikTokCarbon` `@incogroup`
 
