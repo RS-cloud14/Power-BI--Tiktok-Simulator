@@ -218,21 +218,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Tham Ren Sheng**  
 Student, Universiti Malaysia Pahang Al-Sultan Abdullah
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: https://github.com/RS-cloud14
+- LinkedIn: www.linkedin.com/in/ren-sheng-tham-245649258  
+- Email: renshengtham@gmail.com
 
-**Project Link**: [https://github.com/yourusername/tiktok-carbon-calculator](https://github.com/yourusername/tiktok-carbon-calculator)
+**Project Link**: https://github.com/RS-cloud14/Power-BI--Tiktok-Simulator/
 
 ## 🙏 Acknowledgments
 
 - **INCO Group** - Green Digital Certificate Program
-- **Universiti Malaysia Pahang Al-Sultan Abdullah** - Academic support
 - **CloudZero** - Emission data research
 - **BLACKLINKO** - Social media usage statistics
-- Power BI Community - Technical guidance
-
----
 
 ## 📱 Share Your Results
 
